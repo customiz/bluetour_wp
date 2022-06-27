@@ -59,6 +59,7 @@ Tags:         travel, tour, booking, reservation, vacation, tourism, travel agen
   font-style: normal;
   font-display: swap; }
 
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@100;200;300;400;500;600;700;800;900&display=swap');
 /*-------------------------------------------------------------
 1.0 Normalize
 normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css
@@ -451,14 +452,14 @@ button,
 input,
 textarea {
   color: var(--text);
-  font-family: "Poppins", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Prompt", sans-serif;
   line-height: 1.5;
   text-rendering: optimizeLegibility;
   font-weight: 400; }
 
 select {
   color: initial;
-  font-family: "Poppins", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Prompt", sans-serif;
   max-width: 100%; }
 
 h1,
@@ -467,7 +468,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Poppins", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Prompt", sans-serif;
   clear: both;
   margin: 0 0 0.5407911001em;
   color: var(--accent); }
@@ -577,7 +578,7 @@ i {
 
 blockquote,
 .wp-block-quote {
-  font-family: "Poppins", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+  font-family: "Prompt", sans-serif;
   font-size: 20px;
   margin: 0;
   line-height: 1.5;
@@ -1408,7 +1409,7 @@ body.home #page .triply-breadcrumb:not(.elementor-element-edit-mode) {
     font-size: 2em;
     letter-spacing: -1px;
     margin: 0;
-    font-family: "Poppins", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; }
+    font-family: "Prompt", sans-serif; }
   .site-branding .site-description {
     font-size: 0.875em;
     display: none; }
